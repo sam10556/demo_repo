@@ -1,3 +1,3 @@
-#Demo
+# Demo
 
-hello my name is samyak.
+hello my name is samyak shah.
